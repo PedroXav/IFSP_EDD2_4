@@ -1,0 +1,14 @@
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\obj\Debug\net8.0\Vendedores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\obj\Debug\net8.0\Vendedores.AssemblyInfoInputs.cache
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\obj\Debug\net8.0\Vendedores.AssemblyInfo.cs
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\obj\Debug\net8.0\Vendedores.csproj.CoreCompileInputs.cache
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\bin\Debug\net8.0\Vendedores.exe
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\bin\Debug\net8.0\Vendedores.deps.json
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\bin\Debug\net8.0\Vendedores.runtimeconfig.json
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\bin\Debug\net8.0\Vendedores.dll
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\bin\Debug\net8.0\Vendedores.pdb
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\obj\Debug\net8.0\Vendedores.dll
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\obj\Debug\net8.0\refint\Vendedores.dll
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\obj\Debug\net8.0\Vendedores.pdb
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\obj\Debug\net8.0\Vendedores.genruntimeconfig.cache
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Vendedores\obj\Debug\net8.0\ref\Vendedores.dll

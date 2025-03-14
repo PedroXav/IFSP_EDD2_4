@@ -1,0 +1,14 @@
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\obj\Debug\net8.0\Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\obj\Debug\net8.0\Cursos.AssemblyInfoInputs.cache
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\obj\Debug\net8.0\Cursos.AssemblyInfo.cs
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\obj\Debug\net8.0\Cursos.csproj.CoreCompileInputs.cache
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\bin\Debug\net8.0\Cursos.exe
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\bin\Debug\net8.0\Cursos.deps.json
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\bin\Debug\net8.0\Cursos.runtimeconfig.json
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\bin\Debug\net8.0\Cursos.dll
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\bin\Debug\net8.0\Cursos.pdb
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\obj\Debug\net8.0\Cursos.dll
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\obj\Debug\net8.0\refint\Cursos.dll
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\obj\Debug\net8.0\Cursos.pdb
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\obj\Debug\net8.0\Cursos.genruntimeconfig.cache
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\Cursos\obj\Debug\net8.0\ref\Cursos.dll

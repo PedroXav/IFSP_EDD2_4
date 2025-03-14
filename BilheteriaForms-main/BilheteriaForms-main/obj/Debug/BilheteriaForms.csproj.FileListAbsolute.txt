@@ -1,0 +1,9 @@
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\BilheteriaForms\BilheteriaForms\bin\Debug\BilheteriaForms.exe.config
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\BilheteriaForms\BilheteriaForms\bin\Debug\BilheteriaForms.exe
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\BilheteriaForms\BilheteriaForms\bin\Debug\BilheteriaForms.pdb
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\BilheteriaForms\BilheteriaForms\obj\Debug\BilheteriaForms.csproj.AssemblyReference.cache
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\BilheteriaForms\BilheteriaForms\obj\Debug\BilheteriaForms.Properties.Resources.resources
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\BilheteriaForms\BilheteriaForms\obj\Debug\BilheteriaForms.csproj.GenerateResource.cache
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\BilheteriaForms\BilheteriaForms\obj\Debug\BilheteriaForms.csproj.CoreCompileInputs.cache
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\BilheteriaForms\BilheteriaForms\obj\Debug\BilheteriaForms.exe
+C:\Users\pxo20\OneDrive\Documentos\prof Aurelio\c#\BilheteriaForms\BilheteriaForms\obj\Debug\BilheteriaForms.pdb
